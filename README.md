@@ -39,6 +39,10 @@ cement and the single treasure he might be carrying). The treasure is then put o
 ground where he died, available for later pickup by any players. 
 He is a ghost, and must now wander around to find the health studio.
 
+After all players have moved, the optional centaur moves along his preprogrammed path. If he
+meets a player, the player dies. Thus, the good player needs to plot also the movements of
+the centaur to win.
+
 If a player locates the exit, he must spend a turn outside before being available in the cell
 inside the door. He gains a point if he carries a treasure upon exit (and deposits it outside).
 
